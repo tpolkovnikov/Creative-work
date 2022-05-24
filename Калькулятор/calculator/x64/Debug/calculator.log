@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+D:\C++\2022\calculator\MyForm.h(773,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(780,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(787,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(794,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(801,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(808,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(815,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(822,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(830,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(837,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(844,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(851,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(858,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(865,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(872,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(879,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(888,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(892,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(896,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(900,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(904,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(908,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(912,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.h(916,16): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\C++\2022\calculator\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calculator.vcxproj -> D:\C++\2022\calculator\x64\Debug\calculator.exe

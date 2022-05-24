@@ -1,0 +1,25 @@
+﻿  salesman.cpp
+C:\Users\Tifhon\source\repos\salesman\salesman.h(414,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(471,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(560,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\Tifhon\source\repos\salesman\salesman.h(561,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\Tifhon\source\repos\salesman\salesman.h(345,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(341): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Print(void)"
+C:\Users\Tifhon\source\repos\salesman\salesman.h(574): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Print(void)"
+C:\Users\Tifhon\source\repos\salesman\salesman.h(72): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Tifhon\source\repos\salesman\salesman.h(349,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(351,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(274,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tifhon\source\repos\salesman\salesman.h(273): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Tifhon\source\repos\salesman\salesman.h(321): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Tifhon\source\repos\salesman\salesman.h(282): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Tifhon\source\repos\salesman\salesman.h(72): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+  salesman.vcxproj -> C:\Users\Tifhon\source\repos\salesman\Debug\salesman.exe

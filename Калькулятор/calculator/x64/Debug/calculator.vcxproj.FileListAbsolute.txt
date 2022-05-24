@@ -1,0 +1,5 @@
+D:\C++\2022\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+D:\C++\2022\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+D:\C++\2022\calculator\x64\Debug\calculator.MyForm.resources
+D:\C++\2022\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
+D:\C++\2022\calculator\x64\Debug\calculator.exe
